@@ -2,8 +2,7 @@ Package: m2b
 Title: Movement to Behaviour
 Version: 1.0
 Description: A package to predict behaviour from movement 
-	characteristics using observation and random forest.
-	Need to extend the description.
+	characteristics using observations and random forest.
 Depends:
     R (>= 3.3.0)
 Imports:
